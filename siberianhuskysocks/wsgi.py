@@ -1,5 +1,5 @@
 """
-WSGI config for tbatawamoatanip project.
+WSGI config for siberianhuskysocks project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "tbatawamoatanip.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "siberianhuskysocks.settings")
 
 application = get_wsgi_application()

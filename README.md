@@ -1,2 +1,2 @@
-# TBATAWAMOATANIP.com
+# SiberianHuskySocks.dog
 Keywords: webcomic, huskies, django, helicopters
